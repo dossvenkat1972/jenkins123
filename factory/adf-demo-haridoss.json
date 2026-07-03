@@ -1,0 +1,15 @@
+{
+	"name": "adf-demo-haridoss",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5520107e-b89c-4f57-b9b4-e5bea3693126",
+		"tenantId": "33febef4-642a-4874-8074-39d09a4b182c"
+	}
+}
